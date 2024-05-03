@@ -1,0 +1,8 @@
+requests==2.31.0
+#transformers==4.35.2
+python-dotenv
+pydantic
+haystack-ai
+colorama
+
+openai
